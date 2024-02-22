@@ -23,7 +23,7 @@ This is the home of the Canvas Wiki, Canvas Discussions, and Canvas Issues. Othe
 
 1. 
 
-## Repoduction Rate
+## Reproduction Rate
 <!-- How many times out of three are you able to reproduce this bug following your Steps to Reproduce
 (Does not include your first time encountering the bug) -->
 0/3
