@@ -1,5 +1,8 @@
 # Welcome to Canvas Public
-This is the home of the Canvas Wiki, Canvas Discussions, and Canvas Issues. Other discussions can be found [on our Discord](https://avae.io/discord). Canvas Issues can be for anything from Bugs to Feature requests to needing help learning the software. Here are instructions on how to use it:
+This is the home of the Canvas Wiki, Canvas Discussions, and Canvas Issues. Other discussions can be found [on our Discord](https://avae.io/discord). Canvas Issues can be for anything from Bugs to Feature requests to needing help learning the software. In this README Can be found:
+
+* [Formatting Instructions](#Formatting-canvas-issues) for Canvas Issues
+* [Frequently Asked Questions](#FAQ)
 
 ---
 # Formatting Canvas Issues
@@ -89,3 +92,5 @@ This is the home of the Canvas Wiki, Canvas Discussions, and Canvas Issues. Othe
 ## Industry Use Case
 * 
 ```
+---
+# FAQ
