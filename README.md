@@ -94,3 +94,15 @@ This is the home of the Canvas Wiki, Canvas Discussions, and Canvas Issues. Othe
 ```
 ---
 # FAQ
+
+## Installation Notes
+
+### Operating System Requirements
+
+Windows: Windows 10 or later
+MacOS: 10.15 or later (Intel and Native ARM versions)
+Linux: Tested on Ubuntu
+
+### Windows Network Security Pop-up
+
+When you boot Canvas on Windows and recieve a pop up from windows security on network connections permissions, it is required to allow for your type of network for the software to function. It is recommended to allow for all types of networks regardless of your type of network to ensure there are no security issues as you change network connections for your computer. 
